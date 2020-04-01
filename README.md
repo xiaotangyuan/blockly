@@ -1,7 +1,6 @@
-<ShowMeTheCode Plan of reading source code>
-
 # Blockly [![Build Status]( https://travis-ci.org/google/blockly.svg?branch=master)](https://travis-ci.org/google/blockly)
 
+### ShowMeTheCode Plan of reading source code
 
 Google's Blockly is a web-based, visual programming editor.  Users can drag
 blocks together to build programs.  All code is free and open source.
